@@ -12,7 +12,7 @@ on:
         description: '编译设备型号'
         required: true
         type: choice
-        default: 'all'
+        default: '256M'
         options:
           - '256M'
           - '128M'
